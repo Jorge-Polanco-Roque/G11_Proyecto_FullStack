@@ -3,7 +3,7 @@
 
 ### I) Descripción de la oferta:
 * **Temática**: eCommerce de artículos deportivos (establecer cateogorías/tiendas por deportes)
-* **Target**: Jóvenes, hombres y mujeres
+* **Target**: Todas las edades y géneros.
 * **Descripción de integrantes**:
 - Jorge Polanco: Analista de Data
 - Mario Alejandro Puerta Zarate: Especialista IT
