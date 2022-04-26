@@ -11,7 +11,8 @@
 - Nicolas Falabella: Ventas
 
 ### II) Páginas eCommerce (inspiración):
-* Rappi/Justo/Cornershop
+* https://www.solodeportes.com.ar/
 * https://www.adidas.mx/
-* https://www.amazon.com.mx/
-* https://www.gandhi.com.mx/?gclid=CjwKCAjwjZmTBhB4EiwAynRmDxNmtrp_kGuXeHDtjuYcbOzC5B6wDS-Xfu0fx2qh1voQUDk1cDlVCRoCUIoQAvD_BwE
+* https://www.tiendasupervielle.com/
+* https://www.dafiti.com.co/
+
