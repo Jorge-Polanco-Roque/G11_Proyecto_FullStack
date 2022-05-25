@@ -1,0 +1,54 @@
+*{
+    font-family: 'Mulish', sans-serif;
+}
+
+.inicio{
+    background-color: #FF5733;
+    text-align: center;
+    font-weight:bold;
+    color: black;
+}
+
+header{
+    background-color: #1B1B1B;
+    color: white;
+}
+
+
+.banner{
+    width: 85%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.producto{
+    width: 15%;
+    box-shadow: 2px 2px 15px 3px #C1C1C1;
+    display: inline-block;
+    margin: 1% 2% ;
+    
+
+}
+
+.imagenProducto{
+    width: 100%;
+}
+
+footer{
+    width: 100%;
+    background-color: #D4D4D4 ;
+    display: flex;
+
+}
+
+.pieDePagina{
+    margin: 1% 2%;
+    padding: 1% 2%;
+     
+}
+
+.list{
+    list-style:none;
+}
+
