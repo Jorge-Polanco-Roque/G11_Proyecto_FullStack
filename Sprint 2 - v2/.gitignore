@@ -1,0 +1,2 @@
+# Con esto podemos poner una lista de paquetes que no quiero incluir
+node_modules
