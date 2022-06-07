@@ -1,5 +1,6 @@
 # G11_Proyecto_FullStack
 **Proyecto Integrador**: Jorge Polanco, Mario Alejandro Puerta Zarate, Miguel Angel Nuñez, Nicolas Falabella
+<br>
 **Liga del proyecto**: https://g11-esports.herokuapp.com/
 
 ### I) Descripción de la oferta:
