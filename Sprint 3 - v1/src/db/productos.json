@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatilla", 
+        "descripcion":"Nike Revolution 6 Next Nature",
+        "precio":"$13.499" ,
+        "imagen":"images/nike1.jpg",
+        "descuento": "10% off"
+    },
+
+    {
+        "id": 2,
+        "nombre":"Zapatilla", 
+        "descripcion":"Nike Air Max Intrlk 75",
+        "precio":"$17.499" ,
+        "imagen":"images/nike2.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre":"Remera Fila", 
+        "descripcion":"Remera Fila Animal",
+        "precio": "$5.499",
+        "imagen":"images/remera1.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre":"Buzo umbro", 
+        "descripcion":"Buzo Umbro Est. Champions",
+        "precio": "$7.749",
+        "imagen":"images/buzo1.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre":"Campera Puma", 
+        "descripcion":"Puma Warmcell Lightweight",
+        "precio":"$21.499" ,
+        "imagen":"images/campera1.jpg"
+    },
+
+    {
+        "id": 6,
+        "nombre":"Conjunto Toper", 
+        "descripcion":"Conjunto Topper Deportivo",
+        "precio":"$10.499" ,
+        "imagen":"images/conjunto1.jpg"
+    }
+]
