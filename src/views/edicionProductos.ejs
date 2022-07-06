@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+    <%- include("./partials/head")%>
+
+    <%- include("./partials/header")%>
+    <body>
+        <main>
+            <h3>Creación y edición de productos</h3>
+            <br>
+            <div>
+                <form action="/" method="get"></form>
+                <strong>Nombre del producto</strong>
+                <input type="text" id="Nombre del producto" name="Nombre del producto" placeholder="producto">
+                <br><br>
+                <strong>Descripcion</strong>
+                <input type="text" id="Descripcion" name="Descripcion" placeholder="descripcion">
+                <br><br>
+                <strong>Imagen</strong>
+                <input type="file">
+                <br><br>
+                <strong>Categoria</strong>
+                <input type="text" id="Categoria" name="Categoria" placeholder="Categoria">
+                <br><br>
+                <strong>Detalles</strong>
+                <input type="text" id="Detalles" name="Detalles" placeholder="tamaños, talles, etc">
+                <br><br>
+                <strong>Precio</strong>
+                <input type="text" id="Precio" name="Precio" placeholder="valor">
+
+            </div>
+            <br>
+        </main>
+        
+        <%- include("./partials/footer")%>
+
+    </body>
+</html>    
