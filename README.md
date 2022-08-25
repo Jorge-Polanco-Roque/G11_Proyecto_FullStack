@@ -76,3 +76,6 @@ Este es el ciclo que intente hacer en index
                <h4><%= productosVenta[i]+descripcion %></h4>
                <% } %>
            </div>
+
+
+

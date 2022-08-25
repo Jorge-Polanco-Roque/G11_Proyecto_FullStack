@@ -1,16 +1,18 @@
 const express = require("express");
 const path = require('path');
 const router = express.Router();
-const mainController = require("../controller/mainController");
+const mainController = require("../controllers/mainController");
 
 router.get("/", mainController.index);
 
-router.get("/login", mainController.login);
+//router.get("/create/", mainController.create);
 
-router.get("/vistaProducto", mainController.vistaProducto);
+/*router.get("/vistaProducto", mainController.vistaProducto);
 
 router.get("/carrito", mainController.carrito);
 
-router.get("/edicionProductos", mainController.edicionProductos);
+*/
+
+
 
 module.exports = router;

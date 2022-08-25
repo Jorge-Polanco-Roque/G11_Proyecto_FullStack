@@ -1,78 +1,105 @@
 <!DOCTYPE html>
 <html>
+
     <%- include("./partials/head")%>
+    <link rel="stylesheet" href="/css/style_index.css">
 
-    <body>
+<body>
 
-       <%- include("./partials/header")%>
+       <%- include("./partials/nav")%>
 
 
-        <section>
-            <img class="banner" src="images/bannerFila.jpg" alt="banner" >
-        </section>
+    <main>
+  
+        <div class="conteiner">
 
-        <main>
-            <section>
-                
-                <h3>Recomendaciones</h3>
-                <div class="producto"> 
-                    <img class="imagenProducto" src="images/nike1.jpg" width="360" alt="Nike Revolution 6">
-                    <i class="fas fa-truck green_truck"></i>
-                    <br><br><hr/>
-                    <p>$13.499</p>
-                    <p>10% off</p>
-                    <h4>Nike Revolution 6 Next Nature</h4>
-                </div>
+            <div class="publicidad">
 
-                <div class="producto">  
-                    <img class="imagenProducto" src="images/nike2.jpg" width="360" alt="Nike Air Max Intrlk">
-                    <i class="fas fa-truck green_truck"></i>
-                    <br><br><hr/>
-                    <p>$17.499</p>
-                    <p>10% off</p>
-                    <h4>Nike Air Max Intrlk 75</h4>
-                </div>
-                 <div class="producto"> 
-                    <img class="imagenProducto" src="images/remera1.jpg" width="360" alt="Remera Fila Animal">
-                    <i class="fas fa-truck green_truck"></i>
-                    <br><br><hr/>
-                    <p>$5.499</p>
-                    <p>15% off</p>
-                    <h4>Remera Fila Animal</h4>
-                </div>
-    
-                <div class="producto">   
-                    <img class="imagenProducto" src="images/buzo1.jpg" width="360" alt="Buzo Umbro Est">
-                    <i class="fas fa-truck green_truck"></i>
-                    <br><br><hr/>
-                    <p>$7.749</p>
-                    <p>10% off</p>
-                    <h4>Buzo Umbro Est. Champions</h4>
-                </div>
-    
-                <div class="producto"> 
-                    <img class="imagenProducto" src="images/campera1.jpg" width="360" alt="Puma Warmcell Lightweight">
-                    <i class="fas fa-truck green_truck"></i>
-                    <br><br><hr/>
-                    <p>$21.499</p>
-                    <p>20% off</p>
-                    <h4>Puma Warmcell Lightweight</h4>
-                </div>
-    
-                <div class="producto"> 
-                    <img class="imagenProducto" src="images/conjunto1.jpg" width="360" alt="Topper Deportivo">
-                    <i class="fas fa-truck green_truck"></i>
-                    <br><br><hr/>
-                    <p>$10.499</p>
-                    <p>15% off</p>
-                    <h4>Conjunto Topper Deportivo</h4>
-                </div>                   
-    
-                   
-                       
+                 <div class="publicidad-conteiner">
+
+                    <i class="fas fa-angle-left"></i>
+                    <img src="../img/banners/nike.png" alt ="Publicidad Nike" class="img">
+                    <i class="fas fa-angle-right"></i>
+
+                 </div>
+
+            </div>
+
+            <div class="categorias">
+
+                 <div class="categorias-conteiner">
             
-            </section>
-        </main>
+                        <div class="hombre">                    
+                            <div class="text">
+                               <h3>HOMBRE</h3>
+                            </div>
+                        </div>          
+            
+                        <div class="mujer">
+                            <div class="text">
+                                <h3>MUJER</h3>
+                            </div>
+                        </div>
+
+                        <div class="kids">
+                            <div class="text">
+                               <h3>NIÑOS</h3>
+                            </div>
+                        </div>
+
+                        <div class="accesorios">
+                            <div class="text">
+                              <h3>ACCESORIOS</h3>
+                            </div>
+                        </div>            
+                 </div>
+
+            </div>
+
+            <div class="registro">
+
+                <div class="regristro-texto">
+                    <p class="registro-texto-p">Completa el registro en este momento y empeza a disfrutar de las promociones exclusivas</p>
+                </div>
+        
+                <div class="btn">
+                    <button class="btn-register">REGISTRATE GRATIS</button>
+                </div>
+    
+            </div>
+
+            <div class="marcas">
+
+                <div class="nombre-marca">
+                    <img src="../img/banners/logoadidas.png">
+                    <h4 class="marca">Adidas</h4>
+                </div>
+
+                <div class="nombre-marca">
+                    <img src="../img/banners/logonike.png">
+                    <h4 class="marca">Nike</h4>
+                </div>
+
+                <div class="nombre-marca">
+                    <img src="../img/banners/logopuma.png">
+                    <h4 class="marca">Puma</h4>
+                </div>
+
+                <div class="nombre-marca">
+                    <img src="../img/banners/logoumbro.png">
+                    <h4 class="marca">Umbro</h4>
+                </div>
+
+                <div class="nombre-marca">
+                    <img src="../img/banners/logofila.png">
+                    <h4 class="marca">Fila</h4>
+                </div>
+
+            </div>   
+        
+         </div>      
+
+    </main>
 
        <%- include("./partials/footer")%>
         
