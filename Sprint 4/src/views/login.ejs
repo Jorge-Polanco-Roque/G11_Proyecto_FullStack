@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+    <%- include("./partials/head")%>    
+    <link rel="stylesheet" href="/css/style_login.css">
+   
+    <body> 
+
+        <%- include("./partials/nav")%>
+
+        <main>
+        <div class="login">
+
+            <div class="title">
+                <p class="title-login">Iniciar Sesion</p>
+            </div>
+    
+            <form class ="formulario_login" action="">
+    
+                <div class="formulario">            
+                    <p>Ingresar nombre de usuario</p>
+                    <input class="inputs"type="text" placeholder="Usuario">
+                    <p>Ingresar contraseña</p>
+                    <input class="inputs"type="text" placeholder="Contraseña">                  
+                </div>
+            <button class ="btn" type="submit">Ingresar</button>
+    
+            </form>
+    
+            <div class="opc-ext">
+            <div class="title-no-count">
+                <a href ="/register" class="new-acount" > ¿Olvidaste tu contraseña? </a> 
+            </div>
+    
+            <div class="">               
+                <a href ="/register" class="new-acount" >Crear cuenta nueva </a> 
+            </div>
+            </div>
+        </div>   
+    </main>         
+
+    
+
+    </body>
+
+    
+
+</html>
