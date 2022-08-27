@@ -55,9 +55,8 @@ const controller = {
 			if(products[i].id == req.params.id){
 				products[i] = {
 					...products[i],
-					
-					description: req.body.description,
 					name: req.body.name,
+					description: req.body.description,
 					category: req.body.category,
 					discount: req.body.discount,
 					price: req.body.price,

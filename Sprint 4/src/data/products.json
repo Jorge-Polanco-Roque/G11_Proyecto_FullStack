@@ -4,8 +4,8 @@
     "name": "Bolso Nike unisex Brasilia",
     "description": "El bolso Nike Brasilia de training unisex presenta un compartimento principal con cierre y bolsillos adicionales para que puedas llevar todo tu equipo. En él, podrás guardar tu calzado o ropa usada por separado en un compartimiento que se abre en la parte inferior. Además, posee bolsillos exteriores con cierre que te permiten acceder a tus cosas fácilmente y un bolsillo interno con cierre que permite almacenar artículos de valor. Posee bolsa de malla en el costado, asas superiores y correa extraíble para el hombro. Medidas: 51 x 28 x 28 cm (largo x ancho x alto).",
     "image": "0-abolsonike.jpg",
-    "category": "accesorios",
-    "discount": "10",
+    "category": "Hombre",
+    "discount": "10%OFF %OFF %OFF %OFF",
     "price": "10599"
   },
   {
@@ -202,9 +202,9 @@
     "name": "Camiseta adidas Local River Plate 21/22",
     "description": "Sumate a los festejos y alenta a tu club con la Camiseta adidas Local River Plate 21/22, inspirada en uno de los mejores uniformes del equipo y en sus 120 años de historia. Cuenta con tecnología AEROREADY, que absorbe y expulsa el sudor de la piel y está elaborado con Primegreen, una serie de materiales reciclados de alto desempeño. Con cuello en V, un escudo tejido y un corte clásico, es la opción perfecta para acompañarte a la cancha y a todos tus partidos.",
     "image": "22-hflboriver.jpg",
-    "category": "hombre",
-    "discount": "15",
-    "price": "11499"
+    "category": "Hombre",
+    "discount": "10 %OFF",
+    "price": "$11499"
   },
   {
     "id": 23,
