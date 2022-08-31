@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <%- include("./partials/head")%>
+    <link rel="stylesheet" href="/css/style_users.css">
+
+    <body>
+
+       <%- include("./partials/nav")%>
+
+       
+        <main>  
+            <h3>Lista de usuarios</h3>    
+            <br>
+            <br>     
+                
+
+            <div>    <% users.forEach(usuario => { %>
+
+
+                    <div class="articulo-card">
+
+                        <div class="img-prod">
+                            <img src="/img/users/<%= usuario.image %>">
+                        
+                        </div>
+    
+                        <div>
+                        
+                            <p>Nombre: <%= usuario.firstName%></p>
+                            <p>Apellido: <%= usuario.lastName%></p>
+                            <p>E-mail: <%= usuario.email %></p>
+                            <p>Fecha de nacimiento: <%= usuario.dateOfBirth %> </p>
+                            <p>Genero: <%= usuario.gender %></p>
+                            <p>Nombre de usuario: <%= usuario.nameUser %></p>
+        
+                        </div>
+                </div>
+                <br>
+                <br>
+               
+                <% }) %>       
+            </div>
+            
+        </main>
+        
+       <%- include("./partials/footer")%>
+        
+    </body>
+</html>
+

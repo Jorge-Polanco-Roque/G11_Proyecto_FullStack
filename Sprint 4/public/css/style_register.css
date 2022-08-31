@@ -85,6 +85,10 @@ body{
 
 }
 
+.text-danger{
+    color: red
+}
+
 .form-container select{
     width: 100%;
     border: rgb(50, 139, 240) 1px solid ;
