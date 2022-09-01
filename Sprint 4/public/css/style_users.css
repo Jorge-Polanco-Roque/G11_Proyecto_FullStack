@@ -23,82 +23,94 @@ main{
   margin-bottom: 1em;
 }
 
-.titulo-principal{
-background-color: rgb(0, 129, 250);
-box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-border-radius: 10px;
-text-align: center;
-padding: .5em;
-color:white;
-font-weight: 400;
+.conteiner{
+  display: flex;
+  flex-direction: column;
 }
 
-.articulos-conteiner{
+.card{
+  background-color: white;
   width: 100%;
-  margin-top: 1.5em;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);  
-  gap:.7em;
+  display: flex;
+  flex-direction: row;
+  margin: .4em;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding:.4em;
+}
+
+
+.user-img{  
+  width: 30%;
+  margin: .4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
   
 }
 
-.articulo-card{
-    width: 50%; 
-    border-radius: 10px;
-    background-color: white;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+.user-data{
+  margin-left: .5em;
 }
 
-.img-prod img{
-  width: 25%;
+.user-img img{
+  box-shadow: rgba(3, 55, 116, 0.3) 0px 0px 0px 3px;
+  width: 100%;
   border-radius: 10px;
 }
 
-.categoria-prod{
-  color:white;
-  background-color: green;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  font-size: 13px;
-  text-align: center;
+.user-data{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
-.nombre-prod{
-  padding: .5em;
-  text-align: center;
+.text-conteiner{
+  display: flex;
+  flex-direction: column;
 }
 
-.desc-prod{
-  font-size: 11px;
-  text-align: center;
-  font-weight: bold;
+.text-conteiner h4{
+  font-size: 14px;
 }
 
-.precio-prod{
-  color:green;
-  font-weight: 700;
-  text-align: center;
-  padding: .5em;
+.text-conteiner p{
+  font-size: 12px;
 }
+
+
 
 @media (min-width: 768px) {
 
-  .articulos-conteiner{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1em;     
+  .text-conteiner h4{
+    font-size: 16px;
+  }
+  
+  .text-conteiner p{
+    font-size: 14px;
   }
 
 
 }
+
+  
+
+
 
 
 @media (min-width: 1200px) {
 
-  .articulos-conteiner{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1em;     
-  }
+ .conteiner{
+  display:grid;
+  gap: 1em;
+  grid-auto-rows: 20rem;
+  grid-template-columns: repeat(auto-fill,minmax(30rem,1fr));
+ }
 
+
+
+  
+   
 
 }
