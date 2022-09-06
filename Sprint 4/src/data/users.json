@@ -1,5 +1,20 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "id": 0,
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "dateOfBirth": "",
+    "gender": "",
+    "nameUser": "",
+    "password1": "",
+    "password2": "",
+    "image": "default.jpg"
+  },
+  {
+>>>>>>> fbbd5c5147d070906696cfe083d0d6e46fb27800
     "id": 1,
     "firstName": "Mauro",
     "lastName": "Lombardo",
@@ -118,6 +133,7 @@
     "password1": "15032",
     "password2": "15032",
     "image": "10-user-ys.jpg"
+<<<<<<< HEAD
   },
   {
     "id": 10,
@@ -178,5 +194,8 @@
     "password1": "$2a$10$s6Q.V20.YyHXamHD5bZaaulzk0q5CN3RRd8GY.u7R6cJQmjKj4bZW",
     "password2": "$2a$10$ooS6ZntuO.j3Smi3SuwLlOhe3uEKNuy1t/Tp5ae1YyuveKggvXAVy",
     "image": "image-1662346204122-782654417.webp"
+=======
+>>>>>>> fbbd5c5147d070906696cfe083d0d6e46fb27800
   }
+  
 ]
