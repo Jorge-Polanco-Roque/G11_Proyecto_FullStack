@@ -86,7 +86,9 @@ body{
 }
 
 .text-danger{
-    color: red
+    color: red;
+    font-size: 12px;
+    font-style: italic
 }
 
 .form-container select{

@@ -24,20 +24,26 @@
             <li class="items_navs"><a href="">Hombre</a></li>
             <li class="items_navs"><a href="">Mujer</a></li>
             <li class="items_navs"><a href="">Niños</a></li>
-            <li class="items_navs"><a href="">Accesorios</a></li>
+            <!--li class="items_navs"><a href="">Accesorios</a></li-->
             <li class="items_navs"><a href="/products">Todo</a></li>
             <li class="items_navs"><a href="/products/create">Sale</a></li>
             </ul>
             </div>
 
-           
-            
-            <a href ="/login" class="btn-login" >Ingresar</a>
+              <ul><% if (locals.isLogged) { %>
+					<li ><a href="/users/profile" class="profile-logout">Mi cuenta</a></li>
+					<li ><a href="/users/logout" class="profile-logout">Cerrar sesión</a></li>
+                    <% } else { %>
+				</ul>
+                          <a href ="/users/login" class="btn-login" >Ingresar</a> 
+                    <% } %>
+        
+
             
 
-            <div class="icono">
+            <!--div class="icono">
                 <i class="fa-solid fa-bars"></i>
-            </div>
+            </div-->
 
         </nav>
 

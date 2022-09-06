@@ -40,9 +40,9 @@
     "name": "Gorro Topper Beanie",
     "description": "Lucí lo último en tendencias con el Gorro Topper Beanie, un accesorio básico para los días más fríos, con un diseño sencillo que podes combinar con todos tus outfits favoritos.",
     "image": "4-agorrotopper.jpg",
-    "category": "accesorios",
-    "discount": "5",
-    "price": "2099"
+    "category": "Hombre",
+    "discount": "10%OFF",
+    "price": "$3399"
   },
   {
     "id": 5,
@@ -328,9 +328,9 @@
     "name": "Botines Umbro Pro 5 Bump Club Sintetico",
     "description": "Los Botines Umbro Pro 5 Bump Club destacan cada uno de tus pasos dentro y fuera de la cancha. El diseño de su capellada es moderno y resistente, perfecto para tus partidos más intensos. La suela de TPU optimiza el control y eficacia de tus pasos y le plantilla de EVA mejora la amortiguación, dándote todo lo que necesitas para vencer a tus rivales y consolidar tu lugar en el equipo.",
     "image": "36-hzotinezumbro.jpg",
-    "category": "hombre",
-    "discount": "20",
-    "price": "15499"
+    "category": "Hombre",
+    "discount": "20 %OFF",
+    "price": "$20499"
   },
   {
     "id": 37,
@@ -619,5 +619,23 @@
     "category": "kid",
     "discount": "20",
     "price": "13699"
+  },
+  {
+    "id": 70,
+    "name": "Gorra Adidas 10",
+    "description": "gorra para sol",
+    "image": "productImage-1662309435858-89543674.jpg",
+    "category": "Hombre",
+    "discount": "15 %OFF",
+    "price": "$10000"
+  },
+  {
+    "id": 71,
+    "name": "",
+    "description": "",
+    "image": "default-image.png",
+    "category": "Hombre",
+    "discount": "",
+    "price": ""
   }
 ]

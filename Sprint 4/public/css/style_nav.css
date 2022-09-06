@@ -54,6 +54,13 @@
     color: rgb(255, 255, 255);
     font-weight: 300;
     padding:10px;
+   
+}
+
+.profile-logout{
+    text-decoration: none;
+    color: white;
+    padding: 7px;
 }
 
 
@@ -175,6 +182,11 @@
     }
 
     .logo h1 a:hover{
+        color: rgb(204, 173, 0);
+        transition: .6s;
+    }
+
+    .profile-logout:hover{
         color: rgb(204, 173, 0);
         transition: .6s;
     }

@@ -15,25 +15,42 @@
                 <p class="title-login">Iniciar Sesion</p>
             </div>
     
-            <form class ="formulario_login" action="">
     
-                <div class="formulario">            
-                    <p>Ingresar nombre de usuario</p>
-                    <input class="inputs"type="text" placeholder="Usuario">
+            
+                <form method="POST" action="/users/login">
+    
+                <div class="formulario"> 
+                    <div>          
+                    <p>Ingresar tu E-mail</p>
+                    <input class="inputs"type="text"  name="email" placeholder="E-mail">
+                    <% if (locals.errors && errors.email) { %>
+                        <div class="text-danger">
+                         <%= errors.email.msg %>
+                        </div>
+                        <% } %>  
+                </div> 
                     <p>Ingresar contraseña</p>
-                    <input class="inputs"type="text" placeholder="Contraseña">                  
+                    <input class="inputs" type="password" name="password2" placeholder="Contraseña">                  
                 </div>
+                <br>
+
+                <div>
+                    <label>
+                        <input type="checkbox" class="form-check-input" name="remember_user">Recordar mi usuario
+                    </label>
+                </div>
+
             <button class ="btn" type="submit">Ingresar</button>
     
             </form>
     
             <div class="opc-ext">
             <div class="title-no-count">
-                <a href ="/register" class="new-acount" > ¿Olvidaste tu contraseña? </a> 
+                <a href ="/users/register" class="new-acount" > ¿Olvidaste tu contraseña? </a> 
             </div>
     
             <div class="">               
-                <a href ="/register" class="new-acount" >Crear cuenta nueva </a> 
+                <a href ="/users/register" class="new-acount" >Crear cuenta nueva </a> 
             </div>
             </div>
         </div>   

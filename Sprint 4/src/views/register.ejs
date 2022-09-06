@@ -16,10 +16,9 @@
     <form action="/users" method="post" enctype="multipart/form-data" class="formularios">
 
         <div class="form-container">
-            
-           <label for="name">Nombres:</label>
-          
-           <input type="text" id="firstName" name="firstName" >
+           <label for="name">Nombres:</label> 
+           <input type="text" id="firstName" name="firstName" 
+           value="<%= locals.oldData ? oldData.firstName: null %>">
            <% if (locals.errors && errors.firstName) { %>
            <div class="text-danger">
             <%= errors.firstName.msg %>
@@ -29,19 +28,21 @@
          
          <div class="form-container">
             <label for="name">Apellido:</label>
-            <input type="text" id="lastName" name="lastName" >
+            <input type="text" id="lastName" name="lastName"
+            value="<%= locals.oldData ? oldData.firstName: null %>">
             <% if (locals.errors && errors.lastName) { %>
                 <div class="text-danger">
                  <%= errors.lastName.msg %>
                 </div>
-                <% } %>  
+                <% } %>   
         </div>
          
         
          
           <div class="form-container">
            <label for="mail">Correo electrónico:</label>
-           <input type="email" id="email" name="email" >
+           <input type="email" id="email" name="email" 
+           value="<%= locals.oldData ? oldData.email: null %>">
            <% if (locals.errors && errors.email) { %>
             <div class="text-danger">
              <%= errors.email.msg %>
@@ -52,7 +53,8 @@
            
          <div class="form-container">
             <label for="name">Fecha de nacimiento</label>
-            <input type="date" id="dateOfBirth" name="dateOfBirth">
+            <input type="date" id="dateOfBirth" name="dateOfBirth" 
+            value="<%= locals.oldData ? oldData.dateOfBirth: null %>">
             <% if (locals.errors && errors.dateOfBirth) { %>
                 <div class="text-danger">
                  <%= errors.dateOfBirth.msg %>
@@ -62,7 +64,7 @@
               
           <div class="form-container">
             <label for="name">Genero</label>
-            <select name="gender">
+            <select name="gender"  value="<%= locals.oldData ? oldData.gender: null %>">
                 <% if (locals.errors && errors.gender) { %>
                     <div class="text-danger">
                      <%= errors.gender.msg %>
@@ -80,12 +82,19 @@
 
             <div class="form-container">
                 <label for="name">Imagen de perfil</label>
-                <input type="file" id="image" name="image"  placeholder="Subi tu Imagen" accept="">
+                <input type="file" id="image" name="image"  placeholder="Subi tu Imagen" accept="" 
+                value="<%= locals.oldData ? oldData.image: null %>">
+                <% if (locals.errors && errors.image) { %>
+                    <div class="text-danger">
+                     <%= errors.image.msg %>
+                    </div>
+                    <% } %>  
             </div>
 
             <div class="form-container">
                 <label for="name">Nombre de Usuario:</label>
-                <input type="text" id="nameUser"name="nameUser" >
+                <input type="text" id="nameUser" name="nameUser"  
+                value="<%= locals.oldData ? oldData.nameUser: null %>"> 
                 <% if (locals.errors && errors.nameUser) { %>
                     <div class="text-danger">
                      <%= errors.nameUser.msg %>
