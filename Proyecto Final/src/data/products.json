@@ -1,0 +1,641 @@
+[
+  {
+    "id": 0,
+    "name": "Bolso Nike unisex Brasilia",
+    "description": "El bolso Nike Brasilia de training unisex presenta un compartimento principal con cierre y bolsillos adicionales para que puedas llevar todo tu equipo. En él, podrás guardar tu calzado o ropa usada por separado en un compartimiento que se abre en la parte inferior. Además, posee bolsillos exteriores con cierre que te permiten acceder a tus cosas fácilmente y un bolsillo interno con cierre que permite almacenar artículos de valor. Posee bolsa de malla en el costado, asas superiores y correa extraíble para el hombro. Medidas: 51 x 28 x 28 cm (largo x ancho x alto).",
+    "image": "0-abolsonike.jpg",
+    "category": "Hombre",
+    "discount": "10%OFF %OFF %OFF %OFF",
+    "price": "10599"
+  },
+  {
+    "id": 1,
+    "name": "Bolso Puma Sports Bag",
+    "description": "Cuando querés estar seguro de tener todo lo necesario para tu momento de entrenamiento, llevás el Bolso Puma Sports Bag, que te brinda un amplio espacio para llevar tu toalla, zapatillas, una muda de ropa y todos los accesorios que necesitás tener para la actividad. Este equipaje te permite implementar una división para que tus zapatillas no manchen tu ropa o para separar tu toalla mojada. Sus bolsillos frontales te dan una opción de guardado para aquellas cosas que necesitás tener siempre a mano. Además, su diseño clásico y elegante, completa tu look deportivo a la perfección. Lo estabas buscando y ahora, llegó a tu vida para quedarse.",
+    "image": "1-abolsopumarojo.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "9499"
+  },
+  {
+    "id": 2,
+    "name": "Gorra adidas Juventus",
+    "description": "La Gorra adidas Juventus imprime tu fanatismo por el club con un diseño cuidado, con detalles como el logo tejido y una visera precurvada para darte un estilo superior. La banda absorbente para el sudor mejora tu comodidad y cuenta con protección UV50 contra los rayos dañinos del sol para que disfrutes de tus tardes sin restricciones.",
+    "image": "2-agorrajuve.jpg",
+    "category": "Hombre",
+    "discount": "10 %OFF %OFF %OFF",
+    "price": "$$$522"
+  },
+  {
+    "id": 3,
+    "name": "Gorra Nike Legacy 91 Tech",
+    "description": "La gorra Nike Legacy 91 Tech está confeccionada en poliéster y con tecnología Dri-FIT para mantener la transpirabilidad y comodidad. Presenta el Swoosh frontal y bordado, además de adaptarse con comodidad gracias a sus seis paneles. Se ajusta con un cierre ajustable de velcro para un mayor control.  ",
+    "image": "3-agorranike.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "6399"
+  },
+  {
+    "id": 4,
+    "name": "Gorro Topper Beanie",
+    "description": "Lucí lo último en tendencias con el Gorro Topper Beanie, un accesorio básico para los días más fríos, con un diseño sencillo que podes combinar con todos tus outfits favoritos.",
+    "image": "4-agorrotopper.jpg",
+    "category": "Hombre",
+    "discount": "10%OFF",
+    "price": "$3399"
+  },
+  {
+    "id": 5,
+    "name": "Pack de Medias Nike Everyday Lightweight X3",
+    "description": "El Pack de Medias Nike Everyday Lightweight trae tres pares de medias cómodas y adaptables para que entrenes con toda la comodidad y calidad que Nike tiene para ofrecerte. Llevalo y que nunca te falten los accesorios más básicos para ejercitarte.",
+    "image": "5-amediasnike.jpg",
+    "category": "accesorios",
+    "discount": "5",
+    "price": "2999"
+  },
+  {
+    "id": 6,
+    "name": "Mochila Solci Boca Juniors Estampado",
+    "description": "La Mochila Solci Boca Juniors Estampado es perfecta para llevar tu amor por el xeneize a todas partes. Cuentan con un amplio compartimento principal, un bolsillo frontal para tener lo indispensable a mano y bolsillos de malla para tus botellas a los lados. Las correas acolchadas aportan suavidad y confort a tu rutina para que, como a tus ídolos, nada te detenga.",
+    "image": "6-amochilaboca.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "6249"
+  },
+  {
+    "id": 7,
+    "name": "Mochila Nike Brasilia 9.5",
+    "description": "La Mochila Nike Brasilia 9.5 es un equipaje ideal para aquellas personas que necesitan llevar todo lo necesario para enfrentar su día completo. Su diseño es moderno y llamativo. Cuenta con un compartimento principal con división para notebook, uno frontal con cierre y otro sin cierre para las cosas que necesitás tener al alcance la mano. También tiene bolsillo de red lateral para botella de agua. Es ideal para vos",
+    "image": "7-amochilanikecamu.jpg",
+    "category": "accesorios",
+    "discount": "5",
+    "price": "12599"
+  },
+  {
+    "id": 8,
+    "name": "Mochila Topper Heritag 5",
+    "description": "Con un estilo urbano, la Mochila Topper Heritage es ideal para llevarla adonde vayas. Está elaborada en poliéster para mayor resistencia y cuenta con correas ajustables acolchadas que te brindan un confort único y un bolsillo frontal para tener los ítems que más necesitas a mano.",
+    "image": "8-amochilatopper.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "3599"
+  },
+  {
+    "id": 9,
+    "name": "Paleta Vairo Europa Cromo 6.3",
+    "description": "La Paleta Vairo Europa Cromo 6.3 pertenece a la Mid Series y está diseñada para jugadores que buscan dar un salto en su juego. Su núcleo de FOAM te permitirá tener el control absoluto de la pelota, sin necesidad de tener que realizar movimientos forzosos que puedan perjudicar tu juego.",
+    "image": "9-apaletapadel.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "49499"
+  },
+  {
+    "id": 10,
+    "name": "Pelota Dribbling Barcelona Mundial 20",
+    "description": "La pelota Dribbling Barcelona Mundial 20 está hecha de PVC y cosida a máquina. Posee cámara de látex y 26 paneles. Su diseño con la identidad del club se completa con un acabado en mate y textura lisa.",
+    "image": "10-apelotabarza.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "5199"
+  },
+  {
+    "id": 11,
+    "name": "Pelota NBA Drive Basket",
+    "description": "La Pelota NBA Drive Basket rinde tributo a una de las ligas más aclamadas del deporte mundial. El exterior mejora la sensación al entrar en contacto con tus manos y aporta una calidad superior. Llevala con vos a todos lados y nunca pierdas la oportunidad de demostrar tus habilidades.",
+    "image": "11-apelotabasketblanco.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "8899"
+  },
+  {
+    "id": 12,
+    "name": "Pelota Puma La Liga 1 Adrenalina",
+    "description": " No dejes que nada te frene; corre detrás de la Pelota Puma La Liga 1 Adrenalina, la pelota certificada por la FIFA para garantizar un juego de alta calidad. Podes usarla en tus partidos con amigos y en la cancha con rivales. Su forma es ideal para cada golpe que des y el exterior de TPU reduce la absorción del agua para mejorar su duración. Además, su cámara de goma asegura una mayor duración del aire. Lucite dentro y fuera de la cancha con un diseño de Puma pensado para los mejores jugadores.",
+    "image": "12-apelotapumanaranja.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "5799"
+  },
+  {
+    "id": 13,
+    "name": "Gorro Piluso Fila Patch",
+    "description": "El Gorro Piluso Fila Patch cuenta con un diseño liso marcado por el logo de la marca en el frente; lucilo en las calles de tu ciudad y demostra lo bien que podes combinar moda y deporte con un solo accesorio.",
+    "image": "13-apilusofila.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "2799"
+  },
+  {
+    "id": 14,
+    "name": "Pelota De Volley Goma Lisa N°5",
+    "description": "Este balón de voley es ideal para tus momentos de recreación.",
+    "image": "14-apelotavoley.jpg",
+    "category": "accesorios",
+    "discount": "10",
+    "price": "9699"
+  },
+  {
+    "id": 15,
+    "name": "Buzo con capucha New Balance Essentials Negro",
+    "description": "Lleva tu estilo casual a otro nivel con el buzo de mujer NB Essentials.Capucha con cordón de ajuste.Cintura y puños elastizados.",
+    "image": "15-buzo-nb.jpg",
+    "category": "hombre",
+    "discount": "15",
+    "price": "13599"
+  },
+  {
+    "id": 16,
+    "name": "Campera adidas Boca Juniors",
+    "description": "Tu pasión por el Xeneize no tiene límites; lleva la Campera adidas Boca Juniors y mostra cuánto amas a tu club. Su diseño clásico de cuello alto, cierre completo y bolsillos te protege del fríos para acompañarte a la cancha en el invierno y el escudo en el pecho se combina con el logo de adidas para darte un estilo casual y urbano que podes lucir en cualquier ocasión.",
+    "image": "16-campera-boca.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "21499"
+  },
+  {
+    "id": 17,
+    "name": "Buzo Nike Dri-Fit Libero",
+    "description": "El Buzo Nike Dri-Fit Libero es tu aliado ideal a la hora de salir de tu casa en tus días de relax o lucirlo antes de un juego. El diseño sencillo mejora con un estampado de la marca en el pecho y para protegerte del frío cuenta con una capucha regulable con cordones y un bolsillo tipo canguro. La composición de algodón y poliéster lo vuelve suave y duradero para que la comodidad vaya con vos a todas partes.",
+    "image": "17-hbuzoair.jpg",
+    "category": "hombre",
+    "discount": "20",
+    "price": "13499"
+  },
+  {
+    "id": 18,
+    "name": "Buzo Fila Inbox",
+    "description": "El buzo Fila Inbox está confeccionado en algodón y posee capucha además de un bolsillo estilo canguro en su parte frontal. Su comodidad y diseño con el logo de la marca la vuelven una pieza fácil de combinar en tu vida urbana como en tus días de entrenamiento.",
+    "image": "18-hbuzofila.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "10599"
+  },
+  {
+    "id": 19,
+    "name": "Buzo Topper Esencial",
+    "description": "El Buzo Topper Esencial es una perfecta compañía para las épocas de bajas temperaturas. Su algodón de confección suave, te mantiene cómodo en todo momento, además de agregar una calidez impagable a tu cuerpo. Su capucha, puños y dobladillo, te protegen de la entrada del frío y su bolsillo estilo canguro te permite guardar las manos, además de llevar tus objetos necesarios siempre con vos. También tiene un cordón para regular el ajuste de la capucha. Con un diseño simple que combina con cualquier look, esta prenda es tu nuevo imprescindible.",
+    "image": "19-hbuzotoper.jpg",
+    "category": "hombre",
+    "discount": "15",
+    "price": "11999"
+  },
+  {
+    "id": 20,
+    "name": "Buzo Umbro Est Arcoiris",
+    "description": "Si lo que buscás es una prenda de abrigo que sea versátil, cómoda y clásica, tenés que conocer el Buzo Umbro Est Arcoiris. Es perfecto para usar durante todo el día, vayas donde vayas. Confeccionado con tela suave de algodón, es de estilo holgado y otorga esa tan amada libertad de movimiento. Lucí tu mejor versión al llevar el Buzo Umbro Est Arcoiris.",
+    "image": "20-hbuzoumbro.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "8599"
+  },
+  {
+    "id": 21,
+    "name": "Buzo Under Armour Rival Flc Graphic",
+    "description": "El Buzo Under Armour Rival Flc Graphic es de esas prendas ideales que podés llevar tanto con tus look deportivos como para el resto de tus día. Ya sea ir a la universidad, juntarte con amigos o recorrer la ciudad. La tela de confección en algodón, sumado al corte clásico, te ofrece comodidad y ajuste perfecto. Mientras que sus puños, dobladillo y capucha evitan la entrada de frío a tu cuerpo. Además, el bolsillo canguro te deja guardar tus manos para que no se enfríen aparte de darte un look ideal. Tenelo en la pila de abrigos preferidos, no te lo vas a querer sacar.",
+    "image": "21-hbuzounder.jpg",
+    "category": "hombre",
+    "discount": "20",
+    "price": "14999"
+  },
+  {
+    "id": 22,
+    "name": "Camiseta adidas Local River Plate 21/22",
+    "description": "Sumate a los festejos y alenta a tu club con la Camiseta adidas Local River Plate 21/22, inspirada en uno de los mejores uniformes del equipo y en sus 120 años de historia. Cuenta con tecnología AEROREADY, que absorbe y expulsa el sudor de la piel y está elaborado con Primegreen, una serie de materiales reciclados de alto desempeño. Con cuello en V, un escudo tejido y un corte clásico, es la opción perfecta para acompañarte a la cancha y a todos tus partidos.",
+    "image": "22-hflboriver.jpg",
+    "category": "Hombre",
+    "discount": "10 %OFF",
+    "price": "$11499"
+  },
+  {
+    "id": 23,
+    "name": "Camiseta Nike Atletico Madrid 2022/23 Std Home",
+    "description": "La Camiseta Nike Atletico Madrid 2022/23 Std Home es una representación ideal de tu pasión por uno de los equipos más grandes de todos. Combina detalles de diseño basado en la camiseta que usan los profesionales en el campo dándote un look insuperable. Además te brinda comodidad absoluta gracias a su tecnología Dri-FIT para la absorción de sudor. Algo muy importante al momento de elegir esta prenda, es que está hecha en al menos un 50% de fibras recicladas. Porque sabemos que no solo pensás en elegir tu vestimenta, sino que querés hacerlo bien.",
+    "image": "23-hfulboalt.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "16499"
+  },
+  {
+    "id": 24,
+    "name": "Camiseta adidas Afa",
+    "description": "Porque este año no podés dejar de tener la Camiseta adidas Afa, para alentar llevar con vos los colores de tu selección. Está diseñada para que portes tu pasión con toda la comodidad que esperás ya que su corte relajado te permite moverte fácilmente donde vayas. Además cuenta con tecnología AEROREADY para absorber la transpiración y se combina con sus paneles de malla laterales para mantenerte seco y fresco en todo momento. El detalle de la bandera nacional debajo del cuello en la parte de atrás, le da el toque final. Unite a la hinchada con esta increible prenda.",
+    "image": "24-hfulboarg.jpg",
+    "category": "hombre",
+    "discount": "20",
+    "price": "16499"
+  },
+  {
+    "id": 25,
+    "name": "Camiseta Nike Liverpool Fc 2022/23 Stadium Home",
+    "description": "La Camiseta Nike Liverpool FC 2022/23 Stadium Home es una representación ideal de tu pasión por uno de los equipos más grandes de todos. Combina detalles de diseño tipo réplica basado en la camiseta que usan los profesionales en el campo dándote un look insuperable. Además te brinda comodidad absoluta gracias a su tecnología Dri-FIT para la absorción de sudor. Algo muy importante al momento de elegir esta prenda, es que está hecha en un 100% de fibras recicladas. Porque sabemos que no solo pensás en elegir tu vestimenta, sino que querés hacerlo bien.",
+    "image": "25-hfulboliver.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "12999"
+  },
+  {
+    "id": 26,
+    "name": "Camiseta Puma BMW Motorsport T7",
+    "description": "La Camiseta Puma BMW Motorsport T7 combina moda y velocidad, es perfecta para lucir en tu día a día y mostrar tu pasión por el automovilismo. El diseño discreto te permite combinarla con todos tus outfits y el logo BMW en el pecho aporta un toque de autenticidad para que te luzcas estés donde estés. La composición le brinda suavidad y una durabilidad superior para que saques el máximo provecho y la disfrutes en todas tus actividades.",
+    "image": "26-hfulbopuma.jpg",
+    "category": "hombre",
+    "discount": "5",
+    "price": "8999"
+  },
+  {
+    "id": 27,
+    "name": "Remera Canterbury Printed Winter",
+    "description": "La Remera Canterbury Printed Winter está elaborada con una tela suave y resistente para acompañarte en tu día a día con frescura y confort. El diseño estampado le da un toque extra a una prenda básica que no puede faltar en tu ropero. Combinala como más te guste y con todos tus outfits favoritos y lucila en cualquier oportunidad. Su versatilidad, como vos, no tiene límites..",
+    "image": "27-hremeracanterbur.jpg",
+    "category": "hombre",
+    "discount": "15",
+    "price": "6599"
+  },
+  {
+    "id": 28,
+    "name": "Remera Nike Dri-Fit Trail",
+    "description": "Fiel a tu estilo urbano, la remera Nike Dri-Fit Trail te ofrece una prenda de comodidad extrema con un gráfico para ganar las calles, ya sea caminando o arriba de tu longboard. Su diseño holgado y moderno, te permite completar tu estilo personal ideal, que se puede combinar con un jogging, unas bermudas o jeans, depende el plan. Pero siempre, encajan perfectamente. Sus gráficos representan la naturaleza alpina, recreando un escenario totalmente motivador. Algo importante de esta prenda, es que está confeccionada con al menos un 75% de materiales sostenibles. Perfecta para vos y también para el planeta.",
+    "image": "28-hremeranikeair.jpg",
+    "category": "hombre",
+    "discount": "20",
+    "price": "7599"
+  },
+  {
+    "id": 29,
+    "name": "Remera Puma Run Favorite Ss",
+    "description": "La Remera Puma Run Favorite Ss fue diseñada para acompañarte en tu búsqueda hacia la comodidad. Para tus momentos de running o para estar cómoda en casa o cuando hacés tus cosas por la ciudad, esta prenda es ideal. Su diseño clásico y sobrio, te da un look increíble y sus tajos a los costados de la prenda, te permiten moverte líbremente además de aportar al diseño único de esta remera. Tenela en tu pila de remera favoritas para ir a todos lados.",
+    "image": "29-hremerapuma.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "5499"
+  },
+  {
+    "id": 30,
+    "name": "Remera Puma Rebel",
+    "description": "Para los rebeldes de la familia llegó la Remera Puma Rebel, diseñada con el logo de Puma como protagonista y con un estilo sobrio para que puedas combinarla con todos tus outfits. Está elaborada en algodón para una comodidad superior y para favorecer la ventilación y que puedas moverte de un lado a otro con toda la comodidad que buscabas.",
+    "image": "30-hremerapumas.jpg",
+    "category": "hombre",
+    "discount": "5",
+    "price": "7899"
+  },
+  {
+    "id": 31,
+    "name": "Remera Under Armour Oversized Graphic",
+    "description": "La Remera Under Armour Oversized Graphic está diseñada en algodón y poliéster y con un calce oversized para que puedas entrenar tranquila y sin limitarte. Su estilo sobrio te permite combinarla con cualquier otra prenda y la vuelva una remera ideal para incorporar a tu ropa de entrenamiento.",
+    "image": "31-hremeraundera.jpg",
+    "category": "hombre",
+    "discount": "20",
+    "price": "9599"
+  },
+  {
+    "id": 32,
+    "name": "Zapatillas Nike Air Zoom Pegasus 39",
+    "description": "La tecnología se apropió del Running con las Zapatillas Nike Air Zoom Pegasus 39. Te garantízan ligereza y amortiguación en todo momento que las lleves puestas gracias a las unidades doble Zoom Air . Su acolchado en lengüeta y el cuello, te dan una sensación única de suavidad para que solo te concentres en sumar kilometros y te conviertas en un corredor profesional. Además, su parte superior hecha en Nike Enginereed Mesh, es más resistente y te ofrece ventilación y libertad de movimiento para cada una de tus pisadas. La frutilla del postre es su tecnología Nike React, una espuma ligera y duradera que te da una pisada suave y respuesta inmediata. Ponételas y salí a volar.",
+    "image": "32-hzapatillaairnike.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "16499"
+  },
+  {
+    "id": 33,
+    "name": "Zapatillas Nike Air Max Ap",
+    "description": "Las Zapatillas Nike Air Max AP tienen un diseño deportivo y elegante que mezcla pasado y presente para ofrecer una comodidad excepcional. Los detalles con toques de herencia rinden tributo al Air Max 97. Su capellada es de mesh y su suela de goma. Tienen diseño de perfil bajo con cuello acolchado y suave, y plantilla cómoda perfecto para llevar con cualquier conjunto.",
+    "image": "33-hzapatillasarinikenegra.jpg",
+    "category": "hombre",
+    "discount": "15",
+    "price": "26499"
+  },
+  {
+    "id": 34,
+    "name": "Zapatillas Topper T.350 Mesh",
+    "description": "Sacale el máximo provecho a las Zapatillas Topper T.350 Mesh; llevalas con vos cuando salís a correr y combinalas con tus mejores look a la hora de salir con amigos. La capellada de mesh es transpirable y los detalles de sintético aportan durabilidad y un estilo en capas único. La suela de goma con patrón mejora la tracción para que puedas deslizarte sobre distintas superficies con todo el confort que necesitas.",
+    "image": "34-hzapatillastopper.jpg",
+    "category": "hombre",
+    "discount": "10",
+    "price": "8999"
+  },
+  {
+    "id": 35,
+    "name": "Botines Nike Mercurial Vapor 14 Academy Fg/Mg",
+    "description": "Los Botines Nike Mercurial Vapor 14 Academy Fg/Mg te preparan para aumentar tu velocidad y destreza dentro de la cancha. La capellada cuenta con texturas que mejoran el control sobre la pelota y la suela cónica optimiza la tracción en diversas superficies para que nada te frene. El calce garantiza la seguridad que mereces y la amortiguación del interior brinda una sensación de suavidad para que disfrutes al máximo de todos tus partidos.",
+    "image": "35-hzbotineznike.jpg",
+    "category": "hombre",
+    "discount": "15",
+    "price": "22499"
+  },
+  {
+    "id": 36,
+    "name": "Botines Umbro Pro 5 Bump Club Sintetico",
+    "description": "Los Botines Umbro Pro 5 Bump Club destacan cada uno de tus pasos dentro y fuera de la cancha. El diseño de su capellada es moderno y resistente, perfecto para tus partidos más intensos. La suela de TPU optimiza el control y eficacia de tus pasos y le plantilla de EVA mejora la amortiguación, dándote todo lo que necesitas para vencer a tus rivales y consolidar tu lugar en el equipo.",
+    "image": "36-hzotinezumbro.jpg",
+    "category": "Hombre",
+    "discount": "20 %OFF",
+    "price": "$20499"
+  },
+  {
+    "id": 37,
+    "name": "Buzo adidas Sportswear Future Icons",
+    "description": "Clásico, cómodo y canchero, el Buzo adidas Sportswear Future Icons es perfecto para acompañarte en tu día a día. Lucí un look urbano y moderno y protegete del frío gracias a su capucha regulable y puños acanalados. Está elaborado en parte con materiales reciclados para reducir el impacto ambiental de la marca, con una tela de felpa suave y duradera y un estampado lleno de onda para completar todos tus outfits.",
+    "image": "37-mbuzoadidaszl.jpg",
+    "category": "mujer",
+    "discount": "5",
+    "price": "21499"
+  },
+  {
+    "id": 38,
+    "name": "Buzo Nike Dri-Fit Swoosh",
+    "description": "Corre con todo el estilo posible con el Buzo Nike Swoosh Dri-Fit; la tecnología Dri-FIT te mantiene fresca durante más tiempo ya que absorbe el sudor de la piel y lo expulsa. El cierre en el frente te permite regular el flujo del aire y el logo de la espalda es reflectante para que puedas entrenar y correr en cualquier momento del día, sin limitaciones.",
+    "image": "38-mbuzomujernike.jpg",
+    "category": "mujer",
+    "discount": "5",
+    "price": "13499"
+  },
+  {
+    "id": 39,
+    "name": "Buzo Puma Essentials Logo",
+    "description": "El Buzo Puma Essentials Logo es perfecto para los días de media estación, ya que está elaborado con una tela suave de algodón, capucha y un bolsillo tipo canguro. Su diseño tiene como protagonista al logo en el frente y es fácil de combinar con cualquier prenda que elijas, para completar tu look y destacarlo en cualquier oportunidad.",
+    "image": "39-mbuzopumanegro.jpg",
+    "category": "mujer",
+    "discount": "5",
+    "price": "12499"
+  },
+  {
+    "id": 40,
+    "name": "Buzo Puma Power Training",
+    "description": "El Buzo Puma Power Training tiene un corte holgado para que puedas atravesar tu rutina con la mayor comodidad posible. El cuello con cordones es ajustable y el estilo liso con las impresiones de Puma en las mangas te brinda un look liviano, fácil de combinar con todos tus outfits.",
+    "image": "40-mbuzopumarosa.jpg",
+    "category": "mujer",
+    "discount": "15",
+    "price": "16499"
+  },
+  {
+    "id": 41,
+    "name": "Buzo Topper Rtc Loose Urb ",
+    "description": "Complementá tu outfit con el Buzo Topper Rtc Loose Urb tiene un diseño clásico y confortable al contacto con la piel, ideal para llevar durante todo el día. Su composición en algodón te aporta mayor suavidad y comodidad. Si sos de llevar un estilo clásico y queres combinarlo con tus prendas favoritas, es el indicado.",
+    "image": "41-mbuzotoperbordo.jpg",
+    "category": "mujer",
+    "discount": "25",
+    "price": "13499"
+  },
+  {
+    "id": 42,
+    "name": "Remera adidas Aeroready",
+    "description": "La remera adidas AEROREADY Level 3 está confeccionada con poliéster reciclado, elastano y poliéster para una mayor resistencia y libertad de movimiento. De corte regular, cuello redondo y mangas cortas, posee tecnología AEROREADY que absorbe el sudor de tu cuerpo para que puedas entrenar con una máxima concentración. Su diseño se adapta a tus días de entrenamiento como también de uso casual.",
+    "image": "42-mereraadidasverde.jpg",
+    "category": "mujer",
+    "discount": "10",
+    "price": "9499"
+  },
+  {
+    "id": 43,
+    "name": "Remera Converse Comic",
+    "description": "La Remera Converse Comic es ideal para acompañarte en tu rutina y sumarle un toque de onda. De cuello redondo, mangas cortas y un corte clásico, es fresca y liviana y el diseño estampado tipo comic en el frente te permite combinarla con todas tus prendas y estilos.",
+    "image": "43-mremeraconversecomic.jpg",
+    "category": "mujer",
+    "discount": "15",
+    "price": "6499"
+  },
+  {
+    "id": 44,
+    "name": "Remera Topper Boxy Esencial",
+    "description": "Completá tu look con la Remera Topper Boxy Esencial. Es una prenda clásica con un toque de estilo que te permite completar tu vestuario para distintas ocasiones, desde ir a trabajar con un look casual, ir a la universidad o juntarte a cenar con amigos. Además de poder usarla para look deportivo y urbano. Su nombre deja claro cuánta importancia le das a tu esencia. El algodón de confección es suave y confortable. Decile hola a tu nueva remera favorita.",
+    "image": "44-mremeraesencia.jpg",
+    "category": "mujer",
+    "discount": "10",
+    "price": "4499"
+  },
+  {
+    "id": 45,
+    "name": "Remera Topper Gonna Run",
+    "description": "La Remera Topper Gtw-Mc-Gonna te motiva a seguir moviéndote siempre. El estampado inspirado en el deporte está pensado para lucirlo yendo y volviendo del gimnasio o del club y mantiene un estilo sobrio para que puedas combinarla con todos tus outfits favoritos.",
+    "image": "45-mremeranegra.jpg",
+    "category": "mujer",
+    "discount": "15",
+    "price": "5799"
+  },
+  {
+    "id": 46,
+    "name": "Remera Puma Logo Cropped",
+    "description": "Lucí un estilo relajado y moderno con la Remera Puma Logo Cropped, elaborada con algodón para aportar suavidad a tu día a día. Sus hombros con un corte holgado te permiten una mayor libertad en tus movimientos para que disfrutes de toda tu rutina sin límites, mientras que el diseño liso se complementa con el estampado de Puma para darle un toque de originalidad a un básico que no puede faltar entre tus prendas favoritas.",
+    "image": "46-mremerapuma.jpg",
+    "category": "mujer",
+    "discount": "15",
+    "price": "4399"
+  },
+  {
+    "id": 47,
+    "name": "Top adidas Powerimpact Medium-Support",
+    "description": "El Top adidas Powerimpact Medium-Support cuenta con tecnología AEROREADY, que ayuda a mantener tu piel fresca y seca, ya que absorbe y expulsa el sudor. Tiene un acabado a prueba de rozaduras para un ajuste suave y cómodo. El tejido adiflex mejora la sensación al entrar en contacto con la piel y los paneles de malla aportar ventilación. Está fabricado con materiales reciclados, un corte ajustado, escote hondo y un tirante central en la espalda con las míticas tres tiras de adidas, además de copas extraíbles para que lo uses como prefieras.",
+    "image": "47-mtopadidasrosa.jpg",
+    "category": "mujer",
+    "discount": "20",
+    "price": "15299"
+  },
+  {
+    "id": 48,
+    "name": "Top Nike Dri-fit Swoosh Strappy Icon Clash",
+    "description": "Tus jornadas de entrenamiento serán más productivas gracias a el Top Nike Dri-fit Swoosh Strappy Icon Clash. Su construcción en materiales ligeros y la incorporación de la tecnología Dri-Fit que absorbe el sudor y te mantiene seca todo el tiempo, su diseño de espalda con tirantes y un panel ancho de malla te da mayor transpirabilidad. Además, su estampado floral te da una onda tropical para que entrenes con toda la onda característica de Nike.",
+    "image": "48-mtopnikecolores.jpg",
+    "category": "mujer",
+    "discount": "10",
+    "price": "11299"
+  },
+  {
+    "id": 49,
+    "name": "Top Puma Mid Impact Strong",
+    "description": "Pensado especialmente para las entrenadoras de impacto medio y ejercicios intensos el Top Puma Mid Impact Strong es una prenda ideal para las mujeres que van por todo. Tiene un diseño deportivo muy llamativo que se combina con una espalda con franjas cruzadas, una franja elástico con inscripciones de la marca que te harán sentir segura en todo momento y el logo Puma sobre el frente. La tecnología dryCELL garantiza una excelente absorción de humedad haciendote sentir confortable durante todo el momento de actividad.",
+    "image": "49-mtoppuma.jpg",
+    "category": "mujer",
+    "discount": "10",
+    "price": "8699"
+  },
+  {
+    "id": 50,
+    "name": "Top Lotto Speed Run",
+    "description": "Entrená cómoda con el Top Lotto Speed Run, pensado para deportes de baja intensidad sin dejar de brindarte un soporte necesario para moverte tranquila. Su tejido te mantiene fresca y libre de sudor durante tu actividad sin preocuparte por nada. Además, los tirantes y la espalda cruzada te dan mayor soporte y un estilo deportivo.",
+    "image": "50-mtoppumaceles.jpg",
+    "category": "mujer",
+    "discount": "25",
+    "price": "4999"
+  },
+  {
+    "id": 51,
+    "name": "Top Puma Mid Impact Concept",
+    "description": "El Top Puma Mid Impact Concept es todo lo que estabas buscando para comenzar a armar tus looks de entrenamiento más cancheros. Cuenta con un diseño estampado, con tiras cruzadas que mejoran el calce y tu estilo. La tecnología de absorción del sudor dryCELL garantiza la comodidad y la frescura que necesitas en cada una de tus repeticiones. Con soporte medio y almohadillas removibles, tiene todo lo indispensable para transformarse en tu aliado número uno.",
+    "image": "51-mtoppumasrosa.jpg",
+    "category": "mujer",
+    "discount": "20",
+    "price": "6199"
+  },
+  {
+    "id": 52,
+    "name": "Zapatillas adidas Supernova + X Marimekko",
+    "description": "Para vos que estás iniciando en el mundo runner y necesitás lo mejor para que tus pies den el 100% en carrera. Las Zapatillas adidas Supernova + X Marimekko son perfectas por su capellada en malla que te brinda mayor ventilación y frescura incluso en momentos de mayor esfuerzo. Incorporan una mezcla de amortiguación Boost™ y Bounce™ en la media suela que proporciona mayor impulso, mejor retorno de energía y elasticidad en cada pisada. Además, corré con todo el estilo gracias al estampado de la casa finlandesa Marimekko que te lleva a liberar tu fuerza interior.",
+    "image": "52-mzaatilasadidas.jpg",
+    "category": "mujer",
+    "discount": "15",
+    "price": "17299"
+  },
+  {
+    "id": 53,
+    "name": "Zapatillas Nike Air Zoom Pegasus 39",
+    "description": "Las zapatillas Nike Air Zoom Pegasus 39 están hechas para hacer de tus jornadas de running un ritual diario. Te llevan cada vez más cerca de tu objetivo. Dos unidades zoom Air se combinan para brindar amortiguación total en la planta del pie. El acolchado adicional en la lengüeta y el cuello ayuda a mantener los pies cómodos en todo momento y su malla reforzada es más fuerte y a la vez más flexible que la normal, además de sumar ventilación a este calzado. La tecnología FlyWireen en el pie ayuda a mantener tus pies siempre contenidos y evitar que hagan malos movimientos durante la jornada. ¡Llegó tu hora de volar!",
+    "image": "53-mzapatilla.jpg",
+    "category": "mujer",
+    "discount": "10",
+    "price": "32999"
+  },
+  {
+    "id": 54,
+    "name": "Zapatillas Puma R78",
+    "description": "Las Zapatillas Puma R78 están confeccionadas con una mezcla de materiales de alta calidad para estar a la altura de tu ropero. Cuentan con una capellada de malla y cuero sintético y tienen suela de goma con un agarre y amortiguación superior. Son perfectas para utilizar en tu rutina y adonde sea que vayas.",
+    "image": "54-mzapatillapuma.jpg",
+    "category": "mujer",
+    "discount": "25",
+    "price": "20699"
+  },
+  {
+    "id": 55,
+    "name": "Zapatillas Topper Nikita Cs",
+    "description": "Topper adaptó un calzado diseñado para actividades outdoor a la vida urbana con las Zapatillas Topper Nikita Cs. Tienen una capellada de malla y cuero sintético y una suela que aporta gran tracción y adherencia para disfrutarlas en cualquier lugar.",
+    "image": "55-mzapatillatopper.jpg",
+    "category": "mujer",
+    "discount": "10",
+    "price": "18499"
+  },
+  {
+    "id": 56,
+    "name": "Zapatillas Nike Court Legacy Mule Sn",
+    "description": "Lucí un estilo relajado y moderno con las Zapatillas Nike Court Legacy Mule. Su caña baja y talón semi-descubierto son ideales para los días de verano o primavera, permitiéndote andar cómoda y fresca de lunes a lunes.",
+    "image": "56-mzapatilllanike.jpg",
+    "category": "mujer",
+    "discount": "15",
+    "price": "15299"
+  },
+  {
+    "id": 57,
+    "name": "Calza Puma 7/8 Regular Rise Run Launch",
+    "description": "La calza Puma 7/8 Regular Rise Run Launch está confeccionada en un 77% de poliéster y 23% de elastano para brindar resistencia y comodidad para que tengas libertad en tus movimientos. De corte ajustado para zancadas largas, su cintura elástica con cordón interior brinda un control a tu medida, mientras que el bolsillo en la parte trasera de la cintura te permite llevar lo mínimo e indispensable como llaves.",
+    "image": "57-kocalzapuma.jpg",
+    "category": "mujer",
+    "discount": "10",
+    "price": "10299"
+  },
+  {
+    "id": 58,
+    "name": "Pantalón Lotto Hs 22",
+    "description": "Disfruta de tus días de relax con toda la comodidad que mereces; lleva el Pantalón Lotto Hs22 y dejate llevar por su diseño liviano y composición suave que te permite aprovechar los días más tranquilos y hacerles frente con un diseño práctico y a la vez confortable.",
+    "image": "58-opantalonhombrelotto.jpg",
+    "category": "kid",
+    "discount": "10",
+    "price": "7399"
+  },
+  {
+    "id": 60,
+    "name": "Short Puma Run",
+    "description": "El Short Puma Run 2In1 5 está hecho para que salgas a correr con mucho estilo sin perder la comodidad y capacidad de movimiento. Este pantalones cortos para correr, con la tecnología de PUMA dryCELL aseguran absorción de humedad para que puedas mantenerte seco durante todo el tiempo de entrenamiento. Tienen cintura elástica y un bolsillo con cierre en la parte trasera para que lleves tus objetos de valor con vos en todo momento sin preocuparte porque se caigan o pierdan. Si querés correr cómodo y sin preocupaciones, ¡esta prenda es para vos!",
+    "image": "60-oshortpuma.jpg",
+    "category": "kid",
+    "discount": "10",
+    "price": "9199"
+  },
+  {
+    "id": 61,
+    "name": "Short Puma Train Ultraweave 7",
+    "description": "Entrenar es tan necesario para vos que querés hacerlo de la mejor manera. El Short Puma Train Ultraweave 7 es una prenda que te promete inteligencia y modernidad para tus momentos más esforzados basadas en innovación atlética. Sus orificios ubicados estratégicamente a lo largo de la prenda, suman ventilación a tu cuerpo para que puedas moverte sintiendo siempre el confort y se suman los paneles laterales que además de ventilación, agregan libertad de movimiento a esta prenda. Además, está confeccionado con material reciclado y tecnología dryCELL que abrorbe la traspiración manteniéndote siempre seco. Sus inscripciones en la parte lateral trasera, son el toque final de modernidad y estilo. Bueno, ahora sí que captarás todas las miradas alrededor.",
+    "image": "61-oshortpumaver.jpg",
+    "category": "kid",
+    "discount": "15",
+    "price": "12399"
+  },
+  {
+    "id": 62,
+    "name": "Short Puma Run Favorite",
+    "description": "El Short Puma Run Favorite es ideal para tus carreras más largas, ya que su construcción en materiales ligeros te mantiene frescao durante más tiempo, incluso en los momentos más intensos. Una prenda pensada para los corredores más exigentes.",
+    "image": "62-oshortpumaazul.jpg",
+    "category": "kid",
+    "discount": "25",
+    "price": "10799"
+  },
+  {
+    "id": 63,
+    "name": "Remera Lotto Logo",
+    "description": "Presentamos la Remera Lotto Logo para que tus chicos jueguen con comodidad y frescura. Está confeccionada en algodón, de corte regular y cuello redondo. Su estampado la hace versátil y divertida, ideal para usarla durante todo el día.",
+    "image": "63-oremeraloto.jpg",
+    "category": "kid",
+    "discount": "5",
+    "price": "4899"
+  },
+  {
+    "id": 64,
+    "name": "Remera Lotto Vabene Iv",
+    "description": "Lleva un look clásico y liviano a donde tengas que ir con la Remera Lotto Universal, diseñada para ser la prenda más versátil de tu ropero. Usala con pantalones, shorts y bermudas; disfrutala en el trabajo, en la facultad y en todas tus salidas para sacarle provecho al máximo.",
+    "image": "64-oremeralotoroja.jpg",
+    "category": "kid",
+    "discount": "15",
+    "price": "3299"
+  },
+  {
+    "id": 65,
+    "name": "Remera Puma Fade New",
+    "description": "La Remera Puma Run Favorite Ss fue diseñada para acompañarte en tu búsqueda hacia la comodidad. Para tus momentos de running o para estar cómoda en casa o cuando hacés tus cosas por la ciudad, esta prenda es ideal. Su diseño clásico y sobrio, te da un look increíble y sus tajos a los costados de la prenda, te permiten moverte líbremente además de aportar al diseño único de esta remera. Tenela en tu pila de remera favoritas para ir a todos lados.",
+    "image": "65-oremerapuma.jpg",
+    "category": "kid",
+    "discount": "10",
+    "price": "6799"
+  },
+  {
+    "id": 66,
+    "name": "Remera Puma Rebel",
+    "description": "Para los rebeldes de la familia llegó la Remera Puma Rebel, diseñada con el logo de Puma como protagonista y con un estilo sobrio para que puedas combinarla con todos tus outfits. Está elaborada en algodón para una comodidad superior y para favorecer la ventilación y que puedas moverte de un lado a otro con toda la comodidad que buscabas.",
+    "image": "66-oremerapumaceleste.jpg",
+    "category": "kid",
+    "discount": "15",
+    "price": "7199"
+  },
+  {
+    "id": 67,
+    "name": "Remera Puma Essentials Heather",
+    "description": "Si buscabas una prenda digna de un verdadero atleta la Remera Puma Essentials Heather es para vos. Su corte regular, cuello redondo y mangas cortas la vuelven una remera que no puede faltar en el ropero de un amante del deporte, y su diseño liso con el logo de PUMA en el frente le da un toque de estilo necesario para acompañarte en tus largas horas de entrenamiento.",
+    "image": "67-oremerapumanegra.jpg",
+    "category": "kid",
+    "discount": "10",
+    "price": "8499"
+  },
+  {
+    "id": 68,
+    "name": "Zapatillas Puma Smiley Graviton Ac",
+    "description": "Las Zapatillas Puma Gravitn Ac cumplen con el requisito más importante a la hora de comprar un calzado para los más chicos: su calidad garantiza una durabilidad única. LA confección con una parte superior en malla, les da ventilación y la posibilidad de moverse fácilmente. Su diseño moderno es ideal para llevar todos los días y cuenta con ajuste de cordones para mayor estabilidad.",
+    "image": "68-ozapatillapuma.jpg",
+    "category": "kid",
+    "discount": "25",
+    "price": "14999"
+  },
+  {
+    "id": 69,
+    "name": "Zapatillas Puma X-Ray Speedc",
+    "description": "Las Zapatillas Puma X-Ray Speed tienen toda la onda para acompañarte en tu rutina diaria. Una capellada de malla y sintético combina líneas y formas que te brindan un estilo moderno y urbano, con una suela extra gruesa y una plantilla SoftFoam que amortigua y suaviza tus pisadas. El diseño y la comodidad nunca conjugaron tan bien como en este calzado, que tiene el potencial de convertirse en tus zapatillas favoritas..",
+    "image": "69-ozapatilaspuma.jpg",
+    "category": "kid",
+    "discount": "20",
+    "price": "13699"
+  },
+  {
+    "id": 70,
+    "name": "Gorra Adidas 10",
+    "description": "gorra para sol",
+    "image": "productImage-1662309435858-89543674.jpg",
+    "category": "Hombre",
+    "discount": "15 %OFF",
+    "price": "$10000"
+  },
+  {
+    "id": 71,
+    "name": "",
+    "description": "",
+    "image": "default-image.png",
+    "category": "Hombre",
+    "discount": "",
+    "price": ""
+  }
+]
